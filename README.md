@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2600&pause=900&color=E8E8E8&center=true&vCenter=true&width=560&lines=nowxyii3;developer+%C2%B7+builder+%C2%B7+open+source;always+shipping%2C+never+stopping;console.log(%22hello+world%22)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2600&pause=900&color=E8E8E8&center=true&vCenter=true&width=560&lines=nowxyii3;developer+%C2%B7+builder+%C2%B7+open+source;always+shipping%2C+never+stopping;console.log(%22hello+world%22)" alt="Animated text showing nowxyii3 tagline and hello world snippet" />
 </div>
 
 ---
