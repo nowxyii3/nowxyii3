@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&width=500&lines=developer+%C2%B7+builder+%C2%B7+open+source;always+shipping%2C+never+stopping;console.log(%22hello+world%22)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2600&pause=900&color=E8E8E8&center=true&vCenter=true&width=560&lines=nowxyii3;developer+%C2%B7+builder+%C2%B7+open+source;always+shipping%2C+never+stopping;console.log(%22hello+world%22)" alt="Typing SVG" />
 </div>
 
 ---
@@ -37,9 +37,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nowxyii3&show_icons=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=e8e8e8&border_color=222222&hide_border=false&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nowxyii3&show_icons=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=e8e8e8&border_color=222222&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=1800" height="160" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowxyii3&layout=compact&bg_color=0d0d0d&title_color=ffffff&text_color=888888&border_color=222222&hide_border=false&langs_count=6" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowxyii3&layout=compact&bg_color=0d0d0d&title_color=ffffff&text_color=888888&border_color=222222&hide_border=false&langs_count=6&cache_seconds=1800" height="160" alt="Top Languages"/>
 
 </div>
 
