@@ -36,14 +36,6 @@
 ---
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=nowxyii3&show_icons=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=e8e8e8&border_color=222222&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=1800" height="160" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowxyii3&layout=compact&bg_color=0d0d0d&title_color=ffffff&text_color=888888&border_color=222222&hide_border=false&langs_count=6&cache_seconds=1800" height="160" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nowxyii3&background=0d0d0d&ring=e8e8e8&fire=ffffff&currStreakNum=e8e8e8&sideNums=888888&currStreakLabel=555555&sideLabels=555555&dates=444444&border=222222" alt="Streak Stats"/>
 </div>
 
