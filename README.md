@@ -35,9 +35,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nowxyii3&background=0d0d0d&ring=e8e8e8&fire=ffffff&currStreakNum=e8e8e8&sideNums=888888&currStreakLabel=555555&sideLabels=555555&dates=444444&border=222222" alt="Streak Stats"/>
-</div>
 
 ---
 
