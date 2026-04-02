@@ -29,15 +29,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=nowxyii3&bg_color=0d0d0d&color=888888&line=e8e8e8&point=ffffff&hide_border=true&area=true&area_color=222222" alt="Activity Graph" width="100%"/>
 </div>
 
----
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nowxyii3/nowxyii3/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nowxyii3/nowxyii3/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/nowxyii3/nowxyii3/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
+
 
 ---
 
