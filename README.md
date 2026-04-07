@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mongodb,git,docker,linux&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mongodb,git,docker,html,linux&theme=dark" alt="My Skills" />
 </div>
 
 ---
